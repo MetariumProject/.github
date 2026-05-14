@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 400 400">
+  <!-- Metarium Logo — Diamond Lattice Enso with Trellis Vine -->
+  
+  <!-- Enso — brush-stroke circle, open at bottom-right -->
+  <g fill="none" stroke="#a8a8a8" stroke-linecap="round">
+    <path d="M268,310
+             C320,284 352,238 348,186
+             C344,134 306,102 258,96
+             C210,90 164,112 144,152
+             C124,192 132,244 162,278
+             C184,300 212,312 242,310"
+          stroke-width="4.5"
+          opacity="0.82"/>
+    <path d="M242,310 C254,309 264,306 268,310"
+          stroke-width="2.2"
+          opacity="0.4"/>
+  </g>
+  
+  <!-- Dense diamond/diagonal lattice inside enso -->
+  <g stroke="#3a3a3a" stroke-width="0.35" opacity="0.5">
+    <!-- Diagonal NW-SE -->
+    <line x1="155" y1="120" x2="255" y2="220"/>
+    <line x1="155" y1="140" x2="275" y2="260"/>
+    <line x1="155" y1="160" x2="295" y2="300"/>
+    <line x1="155" y1="180" x2="305" y2="330"/>
+    <line x1="155" y1="200" x2="300" y2="345"/>
+    <line x1="155" y1="220" x2="285" y2="350"/>
+    <line x1="155" y1="240" x2="265" y2="350"/>
+    <line x1="155" y1="260" x2="245" y2="350"/>
+    <line x1="165" y1="280" x2="225" y2="340"/>
+    <line x1="175" y1="110" x2="275" y2="210"/>
+    <line x1="195" y1="100" x2="295" y2="200"/>
+    <line x1="215" y1="95" x2="315" y2="195"/>
+    <line x1="235" y1="95" x2="335" y2="195"/>
+    <line x1="255" y1="100" x2="345" y2="190"/>
+    <line x1="275" y1="110" x2="345" y2="180"/>
+    <line x1="295" y1="125" x2="345" y2="175"/>
+    <!-- Diagonal NE-SW -->
+    <line x1="255" y1="120" x2="155" y2="220"/>
+    <line x1="275" y1="140" x2="155" y2="260"/>
+    <line x1="295" y1="160" x2="155" y2="300"/>
+    <line x1="305" y1="180" x2="155" y2="330"/>
+    <line x1="305" y1="200" x2="155" y2="350"/>
+    <line x1="295" y1="220" x2="165" y2="350"/>
+    <line x1="280" y1="240" x2="180" y2="340"/>
+    <line x1="265" y1="260" x2="195" y2="330"/>
+    <line x1="245" y1="280" x2="205" y2="320"/>
+    <line x1="235" y1="110" x2="155" y2="190"/>
+    <line x1="215" y1="100" x2="155" y2="160"/>
+    <line x1="195" y1="95" x2="145" y2="145"/>
+    <line x1="275" y1="110" x2="175" y2="210"/>
+    <line x1="295" y1="125" x2="195" y2="225"/>
+    <line x1="315" y1="145" x2="215" y2="245"/>
+    <line x1="325" y1="165" x2="235" y2="255"/>
+    <line x1="335" y1="185" x2="255" y2="265"/>
+    <line x1="340" y1="205" x2="270" y2="275"/>
+  </g>
+  
+  <!-- Diamond intersection nodes -->
+  <g fill="#484848">
+    <!-- Outer ring -->
+    <circle cx="200" cy="110" r="1.2"/>
+    <circle cx="225" cy="105" r="1.2"/>
+    <circle cx="250" cy="110" r="1.2"/>
+    <circle cx="275" cy="120" r="1.2"/>
+    <circle cx="295" cy="140" r="1.2"/>
+    <circle cx="310" cy="160" r="1.2"/>
+    <circle cx="318" cy="185" r="1.2"/>
+    <circle cx="320" cy="210" r="1.2"/>
+    <circle cx="310" cy="235" r="1.2"/>
+    <circle cx="295" cy="258" r="1.2"/>
+    <circle cx="275" cy="275" r="1.2"/>
+    <circle cx="250" cy="288" r="1.2"/>
+    <circle cx="225" cy="295" r="1.2"/>
+    <circle cx="200" cy="298" r="1.2"/>
+    <circle cx="175" cy="290" r="1.2"/>
+    <circle cx="158" cy="275" r="1.2"/>
+    <circle cx="145" cy="255" r="1.2"/>
+    <circle cx="138" cy="230" r="1.2"/>
+    <circle cx="135" cy="205" r="1.2"/>
+    <circle cx="140" cy="180" r="1.2"/>
+    <circle cx="150" cy="158" r="1.2"/>
+    <circle cx="165" cy="138" r="1.2"/>
+    <circle cx="180" cy="122" r="1.2"/>
+    <!-- Middle ring -->
+    <circle cx="195" cy="140" r="1.3"/>
+    <circle cx="220" cy="132" r="1.3"/>
+    <circle cx="245" cy="135" r="1.3"/>
+    <circle cx="268" cy="148" r="1.3"/>
+    <circle cx="282" cy="168" r="1.3"/>
+    <circle cx="290" cy="192" r="1.3"/>
+    <circle cx="288" cy="218" r="1.3"/>
+    <circle cx="278" cy="240" r="1.3"/>
+    <circle cx="260" cy="258" r="1.3"/>
+    <circle cx="238" cy="268" r="1.3"/>
+    <circle cx="215" cy="272" r="1.3"/>
+    <circle cx="190" cy="268" r="1.3"/>
+    <circle cx="170" cy="255" r="1.3"/>
+    <circle cx="158" cy="235" r="1.3"/>
+    <circle cx="152" cy="212" r="1.3"/>
+    <circle cx="155" cy="188" r="1.3"/>
+    <circle cx="165" cy="165" r="1.3"/>
+    <circle cx="178" cy="148" r="1.3"/>
+    <!-- Inner ring -->
+    <circle cx="205" cy="165" r="1.4"/>
+    <circle cx="228" cy="160" r="1.4"/>
+    <circle cx="250" cy="168" r="1.4"/>
+    <circle cx="262" cy="185" r="1.4"/>
+    <circle cx="265" cy="208" r="1.4"/>
+    <circle cx="258" cy="228" r="1.4"/>
+    <circle cx="242" cy="245" r="1.4"/>
+    <circle cx="222" cy="250" r="1.4"/>
+    <circle cx="200" cy="248" r="1.4"/>
+    <circle cx="182" cy="238" r="1.4"/>
+    <circle cx="172" cy="220" r="1.4"/>
+    <circle cx="170" cy="198" r="1.4"/>
+    <circle cx="178" cy="178" r="1.4"/>
+    <circle cx="192" cy="165" r="1.4"/>
+  </g>
+  
+  <!-- Center node -->
+  <circle cx="220" cy="205" r="3.5" fill="#888888"/>
+  
+  <!-- Two trellis stakes — slight V -->
+  <g stroke="#454545" stroke-width="0.8">
+    <line x1="210" y1="205" x2="198" y2="18"/>
+    <line x1="230" y1="205" x2="242" y2="18"/>
+  </g>
+  
+  <!-- Main vine winding between stakes -->
+  <g fill="none" stroke="#a0a0a0" stroke-width="1.8" stroke-linecap="round">
+    <path d="M220,205
+             C216,188 206,176 210,160
+             C214,144 226,136 232,120
+             C238,104 236,92 228,78
+             C220,64 210,58 208,44
+             C206,32 210,24 216,16"/>
+  </g>
+  
+  <!-- Dense leaves with sub-branches and tendril curls -->
+  <g fill="none" stroke="#909090" stroke-linecap="round">
+    <!-- Large right 1 -->
+    <path d="M228,130 C252,118 278,114 308,118" stroke-width="1.5"/>
+    <path d="M228,130 C254,130 280,124 306,126" stroke-width="0.7" opacity="0.4"/>
+    <path d="M308,118 C318,118 324,122 328,130" stroke-width="0.7" opacity="0.35"/>
+    <path d="M272,116 C280,108 292,106 302,108" stroke-width="0.8" opacity="0.45"/>
+    
+    <!-- Large left 1 -->
+    <path d="M212,100 C188,88 162,84 136,88" stroke-width="1.4"/>
+    <path d="M212,100 C186,100 160,96 138,102" stroke-width="0.7" opacity="0.4"/>
+    <path d="M136,88 C128,88 122,92 120,100" stroke-width="0.7" opacity="0.35"/>
+    <path d="M168,86 C160,78 148,76 138,78" stroke-width="0.8" opacity="0.45"/>
+    
+    <!-- Medium right 2 -->
+    <path d="M236,72 C256,62 278,60 298,64" stroke-width="1.3"/>
+    <path d="M236,72 C256,74 276,70 296,70" stroke-width="0.6" opacity="0.35"/>
+    <path d="M298,64 C306,64 312,68 314,74" stroke-width="0.6" opacity="0.3"/>
+    
+    <!-- Medium left 2 -->
+    <path d="M210,56 C194,46 176,44 158,48" stroke-width="1.2"/>
+    <path d="M210,56 C192,56 174,54 160,58" stroke-width="0.6" opacity="0.35"/>
+    <path d="M158,48 C150,48 144,52 142,58" stroke-width="0.6" opacity="0.3"/>
+    
+    <!-- Small right 3 -->
+    <path d="M222,160 C238,154 254,154 268,158" stroke-width="1.0" opacity="0.6"/>
+    <path d="M268,158 C276,158 282,162 284,168" stroke-width="0.5" opacity="0.3"/>
+    
+    <!-- Small left 3 -->
+    <path d="M212,170 C198,164 184,164 172,168" stroke-width="1.0" opacity="0.6"/>
+    
+    <!-- Small right 4 -->
+    <path d="M232,108 C244,104 256,104 266,108" stroke-width="0.9" opacity="0.5"/>
+    
+    <!-- Small left 4 -->
+    <path d="M214,82 C204,78 194,78 186,82" stroke-width="0.9" opacity="0.5"/>
+    
+    <!-- Tiny shoots -->
+    <path d="M218,148 C210,144 202,146 198,150" stroke-width="0.7" opacity="0.4"/>
+    <path d="M226,90 C234,86 240,88 244,92" stroke-width="0.7" opacity="0.4"/>
+    <path d="M210,38 C202,34 194,36 190,40" stroke-width="0.7" opacity="0.4"/>
+    <path d="M218,28 C226,24 234,26 238,30" stroke-width="0.7" opacity="0.4"/>
+  </g>
+  
+  <!-- Tendril curls -->
+  <g fill="none" stroke="#606060" stroke-width="0.5" stroke-linecap="round" opacity="0.4">
+    <path d="M308,118 C314,116 318,118 318,124"/>
+    <path d="M136,88 C130,86 126,88 126,94"/>
+    <path d="M298,64 C304,62 308,64 308,70"/>
+    <path d="M158,48 C152,46 148,48 148,54"/>
+  </g>
+  
+  <!-- Tip unfurling -->
+  <g fill="none" stroke="#c0c0c0" stroke-width="1.2" stroke-linecap="round">
+    <path d="M216,16 C218,8 224,2 232,0"/>
+    <path d="M216,16 C212,10 210,4 212,0" opacity="0.4"/>
+  </g>
+</svg>

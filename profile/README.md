@@ -1,6 +1,10 @@
-## metarium
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MetariumProject/.github/main/assets/metarium-logo-512.png" width="200" alt="metarium" />
+</p>
 
-sovereignty in digital exploration
+<h2 align="center">metarium</h2>
+
+<p align="center">sovereignty in digital exploration</p>
 
 ---
 
